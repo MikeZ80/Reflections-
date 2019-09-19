@@ -1,0 +1,42 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  When you initialize a repository you basically start a new one. you would
+  need this command if you were starting a new project perhaps.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  The staging area is different from the working directory because it provides a
+  space to gather and prepare the commits that are about to be committed.
+  It allows you to gather and prepare your commits before officially committing
+  them to the working directory.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+  One can add all of the logical changes to the staging area and then commit
+  those without having to commit any others.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+  Make a branch when entering a new realm of a game or organizing a different section
+  of a website. Make a branch whenever helps organize whatever project you're working on. Branches help you track mistakes you don't have to sift through the entire history of the project to find it. All you have to do is look in the branch.
+
+How do the diagrams help you visualize the branch structure?
+
+  Diagrams help visualize the branch structure because they provide a general
+   birds eye view if you will of the organization and order of the branches helping
+   you further understand where they are and the function they are carrying out.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+  The outcome of merging two branches together is a combined commit with all the
+  changes from the two branches. We represent it in the diagram the way we do
+  because we need the commit to have two parents for organizational purposes.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+  Automatic merging saves you the hassle of always having to be conscious of merging commits. On the other hand, the automatic merging process has its flaws and can often lead to inconsistent visuals and other small issues as well. 
